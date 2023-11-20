@@ -1,9 +1,9 @@
 # persistent-path-hypergraph-dirac
 Persistent Path and Hypergraph Dirac
 
-[Persistent-Path-Hypergraph-Dirac computes the persistent spectra of path and hypergraph complexes using a persistent topological Dirac.]
+Persistent-Path-Hypergraph-Dirac computes the persistent spectra of path and hypergraph complexes using a persistent topological Dirac.
 
-[Copyright © 2023 Faisal Suwayyid.]
+Copyright © 2023 Faisal Suwayyid.
 
 ## Table of Contents
 
@@ -15,14 +15,14 @@ Persistent Path and Hypergraph Dirac
 
 ## Description
 
-[Path-Hypergraph-Dirac computes the persistent spectra of path and hypergraph complexes using a persistent topological Dirac.]
+Path-Hypergraph-Dirac computes the persistent spectra of path and hypergraph complexes using a persistent topological Dirac.
 
 ## License
 
-[path-hypergraph-dirac is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.]
+path-hypergraph-dirac is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.
 
 ## Citation
 
-[When the paper for this software is available on the Arxiv and/or published, we will provide an appropriate bibtex entry for those who would like to cite this software.]
+When the paper for this software is available on the Arxiv and/or published, we will provide an appropriate bibtex entry for those who would like to cite this software.
 
 
